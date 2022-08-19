@@ -17,4 +17,4 @@ The changes I have made is
 
 ### URL 
 
-![This is a link to my 1st Challenge](https://mhkhalil1.github.io/1st-Challenge/) 
+https://mhkhalil1.github.io/1st-Challenge/
